@@ -1,0 +1,16 @@
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\bin\Debug\sqlAgentManager.App.exe
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\bin\Debug\sqlAgentManager.App.pdb
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\bin\Debug\sqlAgentManager.contracts.dll
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\bin\Debug\sqlAgentManager.contracts.pdb
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\sqlAgentManager.App.csprojResolveAssemblyReference.cache
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\MainWindow.baml
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\App.g.cs
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\sqlAgentManager.App_MarkupCompile.cache
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\sqlAgentManager.App.g.resources
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\sqlAgentManager.App.Properties.Resources.resources
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\sqlAgentManager.App.csproj.GenerateResource.Cache
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\sqlAgentManager.App.exe
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\obj\x86\Debug\sqlAgentManager.App.pdb
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\bin\Debug\sqlAgentManager.sqlAgentConnector.dll
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.App\bin\Debug\sqlAgentManager.sqlAgentConnector.pdb

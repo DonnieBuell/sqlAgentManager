@@ -1,0 +1,7 @@
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.sqlAgentConnector\obj\Debug\sqlAgentManager.sqlAgentConnector.csprojResolveAssemblyReference.cache
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.sqlAgentConnector\bin\Debug\sqlAgentManager.sqlAgentConnector.dll
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.sqlAgentConnector\bin\Debug\sqlAgentManager.sqlAgentConnector.pdb
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.sqlAgentConnector\bin\Debug\sqlAgentManager.contracts.dll
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.sqlAgentConnector\bin\Debug\sqlAgentManager.contracts.pdb
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.sqlAgentConnector\obj\Debug\sqlAgentManager.sqlAgentConnector.dll
+C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.sqlAgentConnector\obj\Debug\sqlAgentManager.sqlAgentConnector.pdb
