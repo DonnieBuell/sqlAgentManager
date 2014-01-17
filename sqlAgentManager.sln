@@ -1,11 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlAgentManager.contracts", "sqlAgentManager.contracts\sqlAgentManager.contracts.csproj", "{63019FD5-97C9-4707-87D3-08A8639D8544}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlAgentManager.App", "sqlAgentManager.App\sqlAgentManager.App.csproj", "{D1D82609-C73A-4AD9-BC6A-01BEC9408763}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlAgentManager.sqlAgentConnector", "sqlAgentManager.sqlAgentConnector\sqlAgentManager.sqlAgentConnector.csproj", "{C544EA21-FE4D-4759-8D26-A8C9D58FA8C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlAgentManagerAppTest", "sqlAgentManagerAppTest\sqlAgentManagerAppTest.csproj", "{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,16 @@ Global
 		{C544EA21-FE4D-4759-8D26-A8C9D58FA8C4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{C544EA21-FE4D-4759-8D26-A8C9D58FA8C4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{C544EA21-FE4D-4759-8D26-A8C9D58FA8C4}.Release|x86.ActiveCfg = Release|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{3F1B3235-3DBB-4841-9D97-DF0FE2C9CDAB}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManagerAppTest\obj\Debug\sqlAgentManagerAppTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManagerAppTest\bin\Debug\sqlAgentManagerAppTest.dll
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManagerAppTest\bin\Debug\sqlAgentManagerAppTest.pdb
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManagerAppTest\bin\Debug\sqlAgentManager.contracts.dll
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManagerAppTest\bin\Debug\sqlAgentManager.sqlAgentConnector.dll
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManagerAppTest\bin\Debug\sqlAgentManager.contracts.pdb
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManagerAppTest\bin\Debug\sqlAgentManager.sqlAgentConnector.pdb
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManagerAppTest\obj\Debug\sqlAgentManagerAppTest.dll
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManagerAppTest\obj\Debug\sqlAgentManagerAppTest.pdb

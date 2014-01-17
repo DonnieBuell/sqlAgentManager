@@ -37,12 +37,17 @@ namespace sqlAgentManager.sqlAgentConnector
             catch (Exception)
             {
 
-                throw;
+                return new List<string>();
             }
         }
 
         public void StartJob(string jobName)
         {
+            if (String.IsNullOrEmpty(jobName))
+            {
+                throw new ArgumentException("JobName ist null oder leer");
+                
+            }
             Job selectedJob = this.server.JobServer.Jobs[jobName];
             selectedJob.Start();
         }
