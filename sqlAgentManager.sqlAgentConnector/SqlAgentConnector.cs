@@ -22,15 +22,23 @@ namespace sqlAgentManager.sqlAgentConnector
 
         public IEnumerable<string> GetJobs()
         {
-            JobCollection jobs = this.server.JobServer.Jobs;
-
-            List<string> jobNames = new List<string>();
-            foreach (Job job in jobs)
+            try
             {
-                jobNames.Add(job.Name);
-            }
+                JobCollection jobs = this.server.JobServer.Jobs;
 
-            return jobNames;
+                List<string> jobNames = new List<string>();
+                foreach (Job job in jobs)
+                {
+                    jobNames.Add(job.Name);
+                }
+
+                return jobNames;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
         public void StartJob(string jobName)

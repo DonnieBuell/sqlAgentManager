@@ -2,3 +2,8 @@ C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentMa
 C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.contracts\bin\Debug\sqlAgentManager.contracts.pdb
 C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.contracts\obj\Debug\sqlAgentManager.contracts.dll
 C:\Users\mgoers\documents\visual studio 2010\Projects\sqlAgentManager\sqlAgentManager.contracts\obj\Debug\sqlAgentManager.contracts.pdb
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManager.contracts\bin\Debug\sqlAgentManager.contracts.dll
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManager.contracts\bin\Debug\sqlAgentManager.contracts.pdb
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManager.contracts\obj\Debug\sqlAgentManager.contracts.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManager.contracts\obj\Debug\sqlAgentManager.contracts.dll
+C:\Users\Administrator\Documents\GitHub\sqlAgentManager\sqlAgentManager.contracts\obj\Debug\sqlAgentManager.contracts.pdb
